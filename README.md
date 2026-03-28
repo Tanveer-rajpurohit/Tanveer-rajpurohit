@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tanveer-rajpurohit" target="_blank">
+  <a href="https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BMf3f7M26QV6C%2F8GSCm4SXQ%3D%3D" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
   <a href="https://tanveer-singh.vercel.app" target="_blank">
@@ -150,8 +150,4 @@ Currently open to roles where good engineering actually matters.
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Tanveer-rajpurohit&theme=tokyonight&hide_border=true&border_radius=5" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Tanveer-rajpurohit&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true" />
 </div>
