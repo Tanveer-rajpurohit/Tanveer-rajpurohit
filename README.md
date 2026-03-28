@@ -140,9 +140,9 @@ Currently open to roles where good engineering actually matters.
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🧠 **[BrainRot Lang](https://github.com/Tanveer-rajpurohit)** | Interpreted programming language built from scratch in Go — full compiler pipeline, VS Code extension, cross-platform binaries | Go, GitHub Actions |
-| 💬 **[CoNestify](https://github.com/Tanveer-rajpurohit)** | Real-time team collaboration platform (think Slack, built solo) — 500+ concurrent streams, sub-200ms latency | TypeScript, React, Node.js, MediaSoup, Redis, AWS, Docker |
-| 🕵️ **[Undercover](https://github.com/Tanveer-rajpurohit)** | Online multiplayer hidden-role game with real-time voice chat and persistent game state | Node.js, Socket.io, WebRTC, React, PostgreSQL |
+| 🧠 **[BrainRot Lang](https://github.com/Tanveer-rajpurohit/brainrot-lang)** | Interpreted programming language built from scratch in Go — full compiler pipeline, VS Code extension, cross-platform binaries | Go, GitHub Actions |
+| 💬 **[CoNestify](https://github.com/Tanveer-rajpurohit/CoNestify)** | Real-time team collaboration platform (think Slack, built solo) — 500+ concurrent streams, sub-200ms latency | TypeScript, React, Node.js, MediaSoup, Redis, AWS, Docker |
+| 🕵️ **[Undercover](https://github.com/Tanveer-rajpurohit/Undercover)** | Online multiplayer hidden-role game with real-time voice chat and persistent game state | Node.js, Socket.io, WebRTC, React, PostgreSQL |
 
 ---
 
