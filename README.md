@@ -1,15 +1,177 @@
-# 💫 About Me:
-Hi there! I'm Tanveer Singh, a passionate full-stack web developer currently pursuing my B.Tech in Computer Science and Engineering . With a strong foundation in both frontend and backend technologies, I love building impactful, real-time, and scalable applications.<br><br>I'm especially interested in developer tooling, real-time systems, and cloud-native architectures. I enjoy exploring technologies like WebRTC, Socket.io, MediaSoup, and scaling solutions with Nginx, Docker, and AWS.<br><br>What I Do:<br><br>Frontend: React.js, Next.js, Tailwind CSS, TypeScript, GSAP, Framer Motion<br><br>Backend: Node.js, Express.js, GraphQL, REST APIs, WebSocket<br><br>Databases: PostgreSQL, MongoDB, Redis<br><br>DevOps: Docker, GitHub Actions, Cloudflare Serverless<br><br>Others: Unit & Integration Testing, WebRTC, scalable networking, real-time messaging systems<br><br>What I Build:<br><br>CoNestify: A real-time team collaboration platform with live chat, video/audio calls, channels, permissions, and file sharing<br><br>Codex & DSA Algo Platform: A DSA-focused learning tool with personalized note-taking, tracking, and revision timeline<br><br>Coder Helper: A VS Code extension that uses AI (Meta LLaMA API) to analyze code and suggest improvements, showing complexity analysis and rewriting code<br><br>Undercover: An online multiplayer hidden-role game with real-time voice chat and persistent game state<br><br>Goals:<br><br>I aim to contribute to open-source projects, build developer tools that make coding more efficient, and create scalable platforms that empower teams and communities.
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</div>
 
+<h1 align="center">Hey, I'm Tanveer Singh 👋</h1>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanveersinghrajpurohit4@gmail.com) 
+<p align="center">
+  <em>Software Engineer · Full Stack · System Design · DevOps</em>
+</p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tanveer-rajpurohit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Tanveer-rajpurohit&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanveer-rajpurohit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <a href="https://www.linkedin.com/in/tanveer-rajpurohit" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://tanveer-singh.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  </a>
+  <a href="mailto:tanveersingg.dev@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  </a>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Tanveer-rajpurohit.Tanveer-rajpurohit" />
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Software Engineer who builds full systems — the frontend, the backend, the infra, and everything holding it together. I think in architecture first, then write code.
+
+Most of what I've built lives somewhere between system design decisions and real production constraints. I've designed distributed systems with Redis Pub/Sub, Kafka-backed pipelines, and WebSocket layers that hold under load. I've shipped CI/CD setups with GitHub Actions and Jenkins that cut deploy times by **80%**, run containerized stacks on AWS and GCP with Kubernetes and Nginx, and monitored them with Prometheus and Grafana. Not because DevOps is my job title — because broken infra kills good software.
+
+On the product side, I've helped reduce API latency by **65%** through smarter caching, built AI-powered tools used by **1000+ people**, and written a full programming language in Go — lexer, parser, AST, interpreter, the whole compiler pipeline — just to understand how it actually works under the hood.
+
+Currently open to roles where good engineering actually matters.
+
+- 🔭 Currently building at **LawVriksh** — AI-powered legal tools with real-time GenAI streaming
+- 🧠 Deep into **system design**, distributed systems, and language internals
+- 🌱 Exploring **Kafka**, **Ansible**, and large-scale microservice patterns
+- ⚡ Fun fact: I built an entire programming language from scratch. Just to see if I could.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="Go" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
+</div>
+
+<br/>
+
+**Frontend**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="Redux" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="GraphQL" />
+</div>
+
+<br/>
+
+**Backend & Systems**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="Nginx" />
+</div>
+
+<br/>
+
+**Databases**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=cassandra" height="40" alt="Cassandra" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
+</div>
+
+<br/>
+
+**Cloud & DevOps**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="GCP" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="Jenkins" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=ansible" height="40" alt="Ansible" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="Kafka" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="Prometheus" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="Grafana" />
+</div>
+
+<br/>
+
+**Tools**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| 🧠 **[BrainRot Lang](https://github.com/Tanveer-rajpurohit)** | Interpreted programming language built from scratch in Go — full compiler pipeline, VS Code extension, cross-platform binaries | Go, GitHub Actions |
+| 💬 **[CoNestify](https://github.com/Tanveer-rajpurohit)** | Real-time team collaboration platform (think Slack, built solo) — 500+ concurrent streams, sub-200ms latency | TypeScript, React, Node.js, MediaSoup, Redis, AWS, Docker |
+| ⚖️ **[LawVriksh](https://app.lawvriksh.com)** | AI-powered legal document platform with real-time GenAI streaming serving 1000+ professionals | Next.js, Gemini API, Docker, Jenkins |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanveer-rajpurohit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanveer-rajpurohit&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Tanveer-rajpurohit&theme=tokyonight&hide_border=true&border_radius=5" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=Tanveer-rajpurohit&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true" />
+</div>
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanveer-rajpurohit/Tanveer-rajpurohit/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanveer-rajpurohit/Tanveer-rajpurohit/output/pacman-contribution-graph.svg">
+    <img alt="contribution graph" src="https://raw.githubusercontent.com/Tanveer-rajpurohit/Tanveer-rajpurohit/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
