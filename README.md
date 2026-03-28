@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <img height="200" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 </div>
 
 <h1 align="center">Hey, I'm Tanveer Singh 👋</h1>
@@ -36,7 +36,6 @@ On the product side, I've helped reduce API latency by **65%** through smarter c
 
 Currently open to roles where good engineering actually matters.
 
-- 🔭 Currently building at **LawVriksh** — AI-powered legal tools with real-time GenAI streaming
 - 🧠 Deep into **system design**, distributed systems, and language internals
 - 🌱 Exploring **Kafka**, **Ansible**, and large-scale microservice patterns
 - ⚡ Fun fact: I built an entire programming language from scratch. Just to see if I could.
@@ -147,7 +146,7 @@ Currently open to roles where good engineering actually matters.
 |---|---|---|
 | 🧠 **[BrainRot Lang](https://github.com/Tanveer-rajpurohit)** | Interpreted programming language built from scratch in Go — full compiler pipeline, VS Code extension, cross-platform binaries | Go, GitHub Actions |
 | 💬 **[CoNestify](https://github.com/Tanveer-rajpurohit)** | Real-time team collaboration platform (think Slack, built solo) — 500+ concurrent streams, sub-200ms latency | TypeScript, React, Node.js, MediaSoup, Redis, AWS, Docker |
-| ⚖️ **[LawVriksh](https://app.lawvriksh.com)** | AI-powered legal document platform with real-time GenAI streaming serving 1000+ professionals | Next.js, Gemini API, Docker, Jenkins |
+| 🕵️ **[Undercover](https://github.com/Tanveer-rajpurohit)** | Online multiplayer hidden-role game with real-time voice chat and persistent game state | Node.js, Socket.io, WebRTC, React, PostgreSQL |
 
 ---
 
@@ -164,14 +163,4 @@ Currently open to roles where good engineering actually matters.
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=Tanveer-rajpurohit&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true" />
-</div>
-
----
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanveer-rajpurohit/Tanveer-rajpurohit/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanveer-rajpurohit/Tanveer-rajpurohit/output/pacman-contribution-graph.svg">
-    <img alt="contribution graph" src="https://raw.githubusercontent.com/Tanveer-rajpurohit/Tanveer-rajpurohit/output/pacman-contribution-graph.svg">
-  </picture>
 </div>
