@@ -42,96 +42,100 @@ Currently open to roles where good engineering actually matters.
 
 **Languages**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" title="JavaScript" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" title="TypeScript" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="Go" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="Go" title="Go" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" title="C++" />
 </div>
 
 <br/>
 
 **Frontend**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React.js" title="React.js" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" title="Next.js" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="Redux" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="Redux" title="Redux" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="GraphQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg" height="40" alt="Zustand" title="Zustand" onerror="this.src='https://raw.githubusercontent.com/pmndrs/zustand/main/bear.jpg'" />
 </div>
 
 <br/>
 
-**Backend & Systems**
+**Backend & System**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" title="Node.js" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" title="Express" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="GraphQL" title="GraphQL" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="Nginx" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" title="Firebase" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="Nginx" title="Nginx" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="WebSockets" title="WebSockets / Socket.io" />
 </div>
 
 <br/>
 
 **Databases**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" title="PostgreSQL" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" title="MongoDB" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis" title="Redis" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=cassandra" height="40" alt="Cassandra" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" height="40" alt="Cassandra" title="Cassandra" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="Prisma" title="Prisma" />
 </div>
 
 <br/>
 
 **Cloud & DevOps**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" title="AWS" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="GCP" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="GCP" title="GCP" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" title="Docker" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes" title="Kubernetes" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions" title="GitHub Actions" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="Jenkins" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="Jenkins" title="Jenkins" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=ansible" height="40" alt="Ansible" />
+  <img src="https://skillicons.dev/icons?i=ansible" height="40" alt="Ansible" title="Ansible" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="Kafka" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka" title="Kafka" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="Prometheus" />
+  <img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="Prometheus" title="Prometheus" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="Grafana" />
+  <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="Grafana" title="Grafana" />
 </div>
 
 <br/>
 
 **Tools**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" title="VS Code" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" title="Postman" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" title="Figma" />
 </div>
 
 ---
