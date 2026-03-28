@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGU4NmN0dnFiY3hjNXh5eW9yMWN0YmhibGpocGl5Y3g4NXNvamkzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" />
 </div>
 
 <h1 align="center">Hey, I'm Tanveer Singh 👋</h1>
@@ -20,11 +20,7 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Tanveer-rajpurohit.Tanveer-rajpurohit" />
-</div>
 
----
 
 ## 👨‍💻 About Me
 
@@ -151,11 +147,6 @@ Currently open to roles where good engineering actually matters.
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanveer-rajpurohit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanveer-rajpurohit&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Tanveer-rajpurohit&theme=tokyonight&hide_border=true&border_radius=5" height="180" />
