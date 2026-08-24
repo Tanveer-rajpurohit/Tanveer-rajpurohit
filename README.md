@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BMf3f7M26QV6C%2F8GSCm4SXQ%3D%3D" target="_blank">
+  <a href="https://www.linkedin.com/in/tanveer-singg" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
   <a href="https://tanveer-singh.vercel.app" target="_blank">
@@ -20,15 +20,13 @@
   </a>
 </div>
 
-
-
 ## 👨‍💻 About Me
 
-Software Engineer who builds full systems — the frontend, the backend, the infra, and everything holding it together. I think in architecture first, then write code.
+Software Engineer who builds full systems - the frontend, the backend, the infra, and everything holding it together. I think in architecture first, then write code.
 
-Most of what I've built lives somewhere between system design decisions and real production constraints. I've designed distributed systems with Redis Pub/Sub, Kafka-backed pipelines, and WebSocket layers that hold under load. I've shipped CI/CD setups with GitHub Actions and Jenkins that cut deploy times by **80%**, run containerized stacks on AWS and GCP with Kubernetes and Nginx, and monitored them with Prometheus and Grafana. Not because DevOps is my job title — because broken infra kills good software.
+Most of what I've built lives somewhere between system design decisions and real production constraints. I've designed distributed systems with Redis Pub/Sub, Kafka-backed pipelines, and WebSocket layers that hold under load. I've shipped CI/CD setups with GitHub Actions and Jenkins that cut deploy times by **80%**, run containerized stacks on AWS and GCP with Kubernetes and Nginx, and monitored them with Prometheus and Grafana. Not because DevOps is my job title - because broken infra kills good software.
 
-On the product side, I've helped reduce API latency by **65%** through smarter caching, built AI-powered tools used by **1000+ people**, and written a full programming language in Go — lexer, parser, AST, interpreter, the whole compiler pipeline — just to understand how it actually works under the hood.
+On the product side, I've helped reduce API latency by **65%** through smarter caching, built AI-powered tools used by **1000+ people**, and written a full programming language in Go - lexer, parser, AST, interpreter, the whole compiler pipeline - just to understand how it actually works under the hood. Most recently I built Airix at the Tata Technologies InnoVent 2026 Hackathon, an AI-assisted 3D aircraft design workspace with a Go/gRPC backend.
 
 Currently open to roles where good engineering actually matters.
 
@@ -40,103 +38,17 @@ Currently open to roles where good engineering actually matters.
 
 ## 🛠️ Tech Stack
 
-**Languages**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" title="JavaScript" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" title="TypeScript" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="Go" title="Go" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" title="C++" />
-</div>
+**Languages:** JavaScript, TypeScript, Go, C++
 
-<br/>
+**Frontend:** React, Next.js, Three.js, Tailwind CSS, Redux, Zustand
 
-**Frontend**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React.js" title="React.js" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" title="Next.js" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="Redux" title="Redux" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg" height="40" alt="Zustand" title="Zustand" onerror="this.src='https://raw.githubusercontent.com/pmndrs/zustand/main/bear.jpg'" />
-</div>
+**Backend & System:** Node.js, Express, gRPC, GraphQL, Firebase, Nginx, WebSockets
 
-<br/>
+**Databases:** PostgreSQL, MongoDB, Redis, Cassandra, Prisma
 
-**Backend & System**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" title="Node.js" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" title="Express" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="GraphQL" title="GraphQL" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" title="Firebase" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="Nginx" title="Nginx" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="WebSockets" title="WebSockets / Socket.io" />
-</div>
+**Cloud & DevOps:** AWS, GCP, Docker, Kubernetes, GitHub Actions, Jenkins, Ansible, Kafka, Prometheus, Grafana
 
-<br/>
-
-**Databases**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" title="PostgreSQL" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" title="MongoDB" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="Redis" title="Redis" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" height="40" alt="Cassandra" title="Cassandra" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="Prisma" title="Prisma" />
-</div>
-
-<br/>
-
-**Cloud & DevOps**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" title="AWS" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="GCP" title="GCP" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" title="Docker" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes" title="Kubernetes" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions" title="GitHub Actions" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="Jenkins" title="Jenkins" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=ansible" height="40" alt="Ansible" title="Ansible" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka" title="Kafka" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="Prometheus" title="Prometheus" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="Grafana" title="Grafana" />
-</div>
-
-<br/>
-
-**Tools**
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" title="VS Code" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" title="Postman" />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" title="Figma" />
-</div>
+**Tools:** Git, GitHub, VS Code, Postman, Figma
 
 ---
 
@@ -144,8 +56,9 @@ Currently open to roles where good engineering actually matters.
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🧠 **[BrainRot Lang](https://github.com/Tanveer-rajpurohit/brainrot-lang)** | Interpreted programming language built from scratch in Go — full compiler pipeline, VS Code extension, cross-platform binaries | Go, GitHub Actions |
-| 💬 **[CoNestify](https://github.com/Tanveer-rajpurohit/CoNestify)** | Real-time team collaboration platform (think Slack, built solo) — 500+ concurrent streams, sub-200ms latency | TypeScript, React, Node.js, MediaSoup, Redis, AWS, Docker |
+| ✈️ **[Airix](https://github.com/Tanveer-rajpurohit/airix)** | Built at the Tata Technologies InnoVent 2026 Hackathon - AI-assisted aircraft design, browser-based 3D workspace, fleet-maintenance analysis | Go, gRPC, Next.js, Three.js, AWS S3 |
+| 🧠 **[BrainRot Lang](https://github.com/Tanveer-rajpurohit/brainrot-lang)** | Interpreted programming language built from scratch in Go - full compiler pipeline, VS Code extension, cross-platform binaries | Go, GitHub Actions |
+| 💬 **[CoNestify](https://github.com/Tanveer-rajpurohit/CoNestify)** | Real-time team collaboration platform (think Slack, built solo) - 500+ concurrent streams, sub-200ms latency | TypeScript, React, Node.js, MediaSoup, Redis, AWS, Docker |
 | 🕵️ **[Undercover](https://github.com/Tanveer-rajpurohit/Undercover)** | Online multiplayer hidden-role game with real-time voice chat and persistent game state | Node.js, Socket.io, WebRTC, React, PostgreSQL |
 
 ---
